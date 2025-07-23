@@ -1,2 +1,2 @@
-
-console.log("all good!!!!!!!!");
+const {firstController} =require('./controller/first_controller')
+firstController.startWorker()
